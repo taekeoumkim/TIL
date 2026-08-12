@@ -52,3 +52,5 @@
   - [Python 변수 스코프와 람다 함수](Python/2026-08-12_Python_7.md)
 - 2026-08-12
   - [Python 모듈과 패키지](Python/2026-08-12_Python_8.md)
+  - 2026-08-12
+  - [Python uv를 활용한 의존성 관리](Python/2026-08-12_Python_9.md)
