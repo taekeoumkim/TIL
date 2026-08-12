@@ -48,3 +48,7 @@
   - [Python 반복문과 종합 제어 실습](Python/2026-08-11_Python_5.md)
 - 2026-08-11
   - [Python 함수 정의와 매개변수](Python/2026-08-11_Python_6.md)
+- 2026-08-12
+  - [Python 변수 스코프와 람다 함수](Python/2026-08-12_Python_7.md)
+- 2026-08-12
+  - [Python 클로저와 데코레이터](Python/2026-08-12_Python_8.md)
