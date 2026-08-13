@@ -58,3 +58,5 @@
   - [Python 예외 처리](Python/2026-08-13_Python_10.md)
 - 2026-08-13
   - [Python 디버깅 기초](Python/2026-08-13_Python_11.md)
+- 2026-08-13
+  - [Python 클래스](Python/2026-08-13_Python_12.md)
