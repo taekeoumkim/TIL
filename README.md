@@ -62,3 +62,5 @@
   - [Python 클래스](Python/2026-08-13_Python_12.md)
 - 2026-08-14
   - [Python 상속과 캡슐화](Python/2026-08-14_Python_13.md)
+- 2026-08-14
+  - [Python 내장 함수](Python/2026-08-14_Python_14.md)
