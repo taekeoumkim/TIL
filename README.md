@@ -70,3 +70,11 @@
   - [Python 파일 입출력과 구조화된 데이터 변환](Python/2026-08-18_Python_16.md)
 - 2026-08-18
   - [Python 외부 라이브러리를 활용한 데이터 분석 및 시각화](Python/2026-08-18_Python_17.md)
+
+
+## SQL_Database
+
+- 2026-08-18
+  - [SQL, Data 기초](Python/2026-08-18_SQL_Database_1.md)
+- 2026-08-18
+  - [SQL, 데이터베이스 구조](Python/2026-08-18_SQL_Database_2.md)
