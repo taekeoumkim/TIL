@@ -75,6 +75,6 @@
 ## SQL_Database
 
 - 2026-08-18
-  - [SQL, Data 기초](Python/2026-08-18_SQL_Database_1.md)
+  - [SQL, Data 기초](SQL_Database/2026-08-18_SQL_Database_1.md)
 - 2026-08-18
-  - [SQL, 데이터베이스 구조](Python/2026-08-18_SQL_Database_2.md)
+  - [SQL, 데이터베이스 구조](SQL_Database/2026-08-18_SQL_Database_2.md)
