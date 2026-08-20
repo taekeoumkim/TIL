@@ -80,3 +80,9 @@
   - [SQL, 데이터베이스 구조](SQL_Database/2026-08-18_SQL_Database_2.md)
 - 2026-08-19
   - [SQL, 테이블 관계와 생성 및 데이터 입력](SQL_Database/2026-08-19_SQL_Database_3.md)
+- 2026-08-20
+  - [SQL, 데이터 조회하기](SQL_Database/2026-08-20_SQL_Database_4.md)
+- 2026-08-20
+  - [SQL, 데이터 집계와 분석](SQL_Database/2026-08-20_SQL_Database_5.md)
+- 2026-08-20
+  - [SQL, 테이블 결합](SQL_Database/2026-08-20_SQL_Database_6.md)
