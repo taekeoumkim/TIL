@@ -78,3 +78,5 @@
   - [SQL, Data 기초](SQL_Database/2026-08-18_SQL_Database_1.md)
 - 2026-08-18
   - [SQL, 데이터베이스 구조](SQL_Database/2026-08-18_SQL_Database_2.md)
+- 2026-08-19
+  - [SQL, 테이블 관계와 생성 및 데이터 입력](SQL_Database/2026-08-19_SQL_Database_3.md)
