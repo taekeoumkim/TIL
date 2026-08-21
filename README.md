@@ -86,3 +86,5 @@
   - [SQL, 데이터 집계와 분석](SQL_Database/2026-08-20_SQL_Database_5.md)
 - 2026-08-20
   - [SQL, 테이블 결합](SQL_Database/2026-08-20_SQL_Database_6.md)
+- 2026-08-21
+  - [SQL, 서브쿼리](SQL_Database/2026-08-21_SQL_Database_7.md)
