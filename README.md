@@ -37,54 +37,60 @@
 ## Python
 
 - 2026-08-06
-  - [uv를 활용한 Python 프로젝트 환경 구축](Python/2026-08-06_Python_1.md)
+  - [Python - uv를 활용한 Python 프로젝트 환경 구축](Python/2026-08-06_Python_1.md)
 - 2026-08-07
-  - [Python 변수와 자료형 및 형변환](Python/2026-08-07_Python_2.md)
+  - [Python - 변수와 자료형 및 형변환](Python/2026-08-07_Python_2.md)
 - 2026-08-07
-  - [Python 연산자와 문자열 형식화](Python/2026-08-07_Python_3.md)
+  - [Python - 연산자와 문자열 형식화](Python/2026-08-07_Python_3.md)
 - 2026-08-10
-  - [Python 자료구조와 조건문](Python/2026-08-10_Python_4.md)
+  - [Python - 자료구조와 조건문](Python/2026-08-10_Python_4.md)
 - 2026-08-11
-  - [Python 반복문과 종합 제어 실습](Python/2026-08-11_Python_5.md)
+  - [Python - 반복문과 종합 제어 실습](Python/2026-08-11_Python_5.md)
 - 2026-08-11
-  - [Python 함수 정의와 매개변수](Python/2026-08-11_Python_6.md)
+  - [Python - 함수 정의와 매개변수](Python/2026-08-11_Python_6.md)
 - 2026-08-12
-  - [Python 변수 스코프와 람다 함수](Python/2026-08-12_Python_7.md)
+  - [Python - 변수 스코프와 람다 함수](Python/2026-08-12_Python_7.md)
 - 2026-08-12
-  - [Python 모듈과 패키지](Python/2026-08-12_Python_8.md)
+  - [Python - 모듈과 패키지](Python/2026-08-12_Python_8.md)
 - 2026-08-12
-  - [Python uv를 활용한 의존성 관리](Python/2026-08-12_Python_9.md)
+  - [Python - uv를 활용한 의존성 관리](Python/2026-08-12_Python_9.md)
 - 2026-08-13
-  - [Python 예외 처리](Python/2026-08-13_Python_10.md)
+  - [Python - 예외 처리](Python/2026-08-13_Python_10.md)
 - 2026-08-13
-  - [Python 디버깅 기초](Python/2026-08-13_Python_11.md)
+  - [Python - 디버깅 기초](Python/2026-08-13_Python_11.md)
 - 2026-08-13
-  - [Python 클래스](Python/2026-08-13_Python_12.md)
+  - [Python - 클래스](Python/2026-08-13_Python_12.md)
 - 2026-08-14
-  - [Python 상속과 캡슐화](Python/2026-08-14_Python_13.md)
+  - [Python - 상속과 캡슐화](Python/2026-08-14_Python_13.md)
 - 2026-08-14
-  - [Python 내장 함수](Python/2026-08-14_Python_14.md)
+  - [Python - 내장 함수](Python/2026-08-14_Python_14.md)
 - 2026-08-18
-  - [Python 표준 라이브러리](Python/2026-08-18_Python_15.md)
+  - [Python - 표준 라이브러리](Python/2026-08-18_Python_15.md)
 - 2026-08-18
-  - [Python 파일 입출력과 구조화된 데이터 변환](Python/2026-08-18_Python_16.md)
+  - [Python - 파일 입출력과 구조화된 데이터 변환](Python/2026-08-18_Python_16.md)
 - 2026-08-18
-  - [Python 외부 라이브러리를 활용한 데이터 분석 및 시각화](Python/2026-08-18_Python_17.md)
+  - [Python - 외부 라이브러리를 활용한 데이터 분석 및 시각화](Python/2026-08-18_Python_17.md)
 
 
 ## SQL_Database
 
 - 2026-08-18
-  - [SQL, Data 기초](SQL_Database/2026-08-18_SQL_Database_1.md)
+  - [SQL - Data 기초](SQL_Database/2026-08-18_SQL_Database_1.md)
 - 2026-08-18
-  - [SQL, 데이터베이스 구조](SQL_Database/2026-08-18_SQL_Database_2.md)
+  - [SQL - 데이터베이스 구조](SQL_Database/2026-08-18_SQL_Database_2.md)
 - 2026-08-19
-  - [SQL, 테이블 관계와 생성 및 데이터 입력](SQL_Database/2026-08-19_SQL_Database_3.md)
+  - [SQL - 테이블 관계와 생성 및 데이터 입력](SQL_Database/2026-08-19_SQL_Database_3.md)
 - 2026-08-20
-  - [SQL, 데이터 조회하기](SQL_Database/2026-08-20_SQL_Database_4.md)
+  - [SQL - 데이터 조회하기](SQL_Database/2026-08-20_SQL_Database_4.md)
 - 2026-08-20
-  - [SQL, 데이터 집계와 분석](SQL_Database/2026-08-20_SQL_Database_5.md)
+  - [SQL - 데이터 집계와 분석](SQL_Database/2026-08-20_SQL_Database_5.md)
 - 2026-08-20
-  - [SQL, 테이블 결합](SQL_Database/2026-08-20_SQL_Database_6.md)
+  - [SQL - 테이블 결합](SQL_Database/2026-08-20_SQL_Database_6.md)
 - 2026-08-21
-  - [SQL, 서브쿼리](SQL_Database/2026-08-21_SQL_Database_7.md)
+  - [SQL - 서브쿼리](SQL_Database/2026-08-21_SQL_Database_7.md)
+
+
+## Preprocessing_Visualization
+
+- 2026-08-24
+  - [Pandas - 데이터 전처리와 데이터 탐색](Preprocessing_Visualization/2026-08-24_Preprocessing_Visualization_1.md)
