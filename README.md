@@ -97,3 +97,9 @@
 
 - 2026-08-24
   - [Pandas - 데이터 결합 concat, merge, join](Preprocessing_Visualization/2026-08-24_Preprocessing_Visualization_2.md)
+
+- 2026-08-25
+  - [데이터 집계](Preprocessing_Visualization/2026-08-25_Preprocessing_Visualization_3.md)
+
+- 2026-08-25
+  - [데이터 정렬](Preprocessing_Visualization/2026-08-25_Preprocessing_Visualization_4.md)
