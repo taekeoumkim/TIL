@@ -103,3 +103,6 @@
 
 - 2026-08-25
   - [데이터 정렬](Preprocessing_Visualization/2026-08-25_Preprocessing_Visualization_4.md)
+
+- 2026-08-25
+  - [EDA](Preprocessing_Visualization/2026-08-25_Preprocessing_Visualization_5.md)
