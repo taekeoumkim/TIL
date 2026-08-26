@@ -109,3 +109,9 @@
 
 - 2026-08-26
   - [데이터정제와 결측치처리](Preprocessing_Visualization/2026-08-26_Preprocessing_Visualization_6.md)
+
+- 2026-08-26
+  - [이상치 처리](Preprocessing_Visualization/2026-08-26_Preprocessing_Visualization_7.md)
+
+- 2026-08-26
+  - [중복데이터 처리](Preprocessing_Visualization/2026-08-26_Preprocessing_Visualization_8.md)
