@@ -106,3 +106,6 @@
 
 - 2026-08-25
   - [EDA](Preprocessing_Visualization/2026-08-25_Preprocessing_Visualization_5.md)
+
+- 2026-08-26
+  - [데이터정제와 결측치처리](Preprocessing_Visualization/2026-08-26_Preprocessing_Visualization_6.md)
