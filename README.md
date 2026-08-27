@@ -115,3 +115,9 @@
 
 - 2026-08-26
   - [중복데이터 처리](Preprocessing_Visualization/2026-08-26_Preprocessing_Visualization_8.md)
+
+- 2026-08-27
+  - [데이터 시각화](Preprocessing_Visualization/2026-08-27_Preprocessing_Visualization_9.md)
+
+- 2026-08-27
+  - [관계 비교, 시각화](Preprocessing_Visualization/2026-08-27_Preprocessing_Visualization_10.md)
