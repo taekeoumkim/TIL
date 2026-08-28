@@ -121,3 +121,9 @@
 
 - 2026-08-27
   - [관계 비교, 시각화](Preprocessing_Visualization/2026-08-27_Preprocessing_Visualization_10.md)
+
+- 2026-08-28
+  - [통계와 중심경향치](Preprocessing_Visualization/2026-08-28_Preprocessing_Visualization_11.md)
+
+- 2026-08-28
+  - [산포도](Preprocessing_Visualization/2026-08-28_Preprocessing_Visualization_12.md)
