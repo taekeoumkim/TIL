@@ -127,3 +127,6 @@
 
 - 2026-08-28
   - [산포도](Preprocessing_Visualization/2026-08-28_Preprocessing_Visualization_12.md)
+
+- 2026-08-28
+  - [확률의 기초](Preprocessing_Visualization/2026-08-28_Preprocessing_Visualization_13.md)
