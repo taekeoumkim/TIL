@@ -139,3 +139,9 @@
 
 - 2026-08-31
   - [모집단과 표본추출](Basic_Statistics/2026-08-31_Basic_Statistics_5.md)
+
+- 2026-09-01
+  - [표본분포와 중심극한정리](Basic_Statistics/2026-09-01_Basic_Statistics_6.md)
+
+- 2026-09-01
+  - [상관분석과 단순 선형회귀](Basic_Statistics/2026-09-01_Basic_Statistics_7.md)
