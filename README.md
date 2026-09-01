@@ -122,11 +122,20 @@
 - 2026-08-27
   - [관계 비교, 시각화](Preprocessing_Visualization/2026-08-27_Preprocessing_Visualization_10.md)
 
-- 2026-08-28
-  - [통계와 중심경향치](Preprocessing_Visualization/2026-08-28_Preprocessing_Visualization_11.md)
+
+## Basic_Statistics
 
 - 2026-08-28
-  - [산포도](Preprocessing_Visualization/2026-08-28_Preprocessing_Visualization_12.md)
+  - [통계와 중심경향치](Basic_Statistics/2026-08-28_Basic_Statistics_1.md)
 
 - 2026-08-28
-  - [확률의 기초](Preprocessing_Visualization/2026-08-28_Preprocessing_Visualization_13.md)
+  - [산포도](Basic_Statistics/2026-08-28_Basic_Statistics_2.md)
+
+- 2026-08-28
+  - [확률의 기초](Basic_Statistics/2026-08-28_Basic_Statistics_3.md)
+
+- 2026-08-31
+  - [정규분포와 이항분포](Basic_Statistics/2026-08-31_Basic_Statistics_4.md)
+
+- 2026-08-31
+  - [모집단과 표본추출](Basic_Statistics/2026-08-31_Basic_Statistics_5.md)
