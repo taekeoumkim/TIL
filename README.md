@@ -145,3 +145,12 @@
 
 - 2026-09-01
   - [상관분석과 단순 선형회귀](Basic_Statistics/2026-09-01_Basic_Statistics_7.md)
+
+- 2026-09-02
+  - [머신러닝의 이해와 학습](Machine_Learning/2026-09-02_Machine_Learning_1.md)
+
+- 2026-09-02
+  - [데이터분석환경, EDA와 데이터전처리](Machine_Learning/2026-09-02_Machine_Learning_2.md)
+
+- 2026-09-02
+  - [선형회귀와 회귀평가지표](Machine_Learning/2026-09-02_Machine_Learning_3.md)
