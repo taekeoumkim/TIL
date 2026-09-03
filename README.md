@@ -155,5 +155,11 @@
 - 2026-09-02
   - [데이터분석환경, EDA와 데이터전처리](Machine_Learning/2026-09-02_Machine_Learning_2.md)
 
-- 2026-09-02
-  - [선형회귀와 회귀평가지표](Machine_Learning/2026-09-02_Machine_Learning_3.md)
+- 2026-09-03
+  - [선형회귀와 회귀평가지표](Machine_Learning/2026-09-03_Machine_Learning_3.md)
+
+- 2026-09-03
+  - [선형회귀모델 학습 방법](Machine_Learning/2026-09-03_Machine_Learning_4.md)
+
+- 2026-09-03
+  - [모델 학습 시 발생 문제와 처리 방법](Machine_Learning/2026-09-03_Machine_Learning_5.md)
