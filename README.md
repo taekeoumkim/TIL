@@ -163,3 +163,6 @@
 
 - 2026-09-03
   - [모델 학습 시 발생 문제와 처리 방법](Machine_Learning/2026-09-03_Machine_Learning_5.md)
+
+- 2026-09-03
+  - [모델 학습 시 발생 문제와 처리 방법](Machine_Learning/2026-09-03_Machine_Learning_6.md)
