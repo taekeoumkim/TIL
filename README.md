@@ -165,4 +165,7 @@
   - [모델 학습 시 발생 문제와 처리 방법](Machine_Learning/2026-09-03_Machine_Learning_5.md)
 
 - 2026-09-03
-  - [모델 학습 시 발생 문제와 처리 방법](Machine_Learning/2026-09-03_Machine_Learning_6.md)
+  - [회귀 모델 비교와 하이퍼파라미터 튜닝](Machine_Learning/2026-09-03_Machine_Learning_6.md)
+
+- 2026-09-04
+  - [로지스틱 회귀와 분류 기초](Machine_Learning/2026-09-04_Machine_Learning_7.md)
