@@ -169,3 +169,12 @@
 
 - 2026-09-04
   - [로지스틱 회귀와 분류 기초](Machine_Learning/2026-09-04_Machine_Learning_7.md)
+
+- 2026-09-07
+  - [분류 평가지표](Machine_Learning/2026-09-07_Machine_Learning_8.md)
+
+- 2026-09-07
+  - [결정트리와 앙상블](Machine_Learning/2026-09-07_Machine_Learning_9.md)
+
+- 2026-09-07
+  - [분류 문제 정의와 모델 비교 실습](Machine_Learning/2026-09-07_Machine_Learning_10.md)
