@@ -178,3 +178,9 @@
 
 - 2026-09-07
   - [분류 문제 정의와 모델 비교 실습](Machine_Learning/2026-09-07_Machine_Learning_10.md)
+
+- 2026-09-08
+  - [군집화](Machine_Learning/2026-09-08_Machine_Learning_11.md)
+
+- 2026-09-08
+  - [차원축소](Machine_Learning/2026-09-08_Machine_Learning_12.md)
