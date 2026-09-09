@@ -189,13 +189,13 @@
 ## SQL_Query_Optimization
 
 - 2026-09-09
-  - [쿼리 실행 흐름과 옵티마이저](SQL_Query_Optimizationg/2026-09-09_SQL_Query_Optimization_1.md)
+  - [쿼리 실행 흐름과 옵티마이저](SQL_Query_Optimization/2026-09-09_SQL_Query_Optimization_1.md)
 
 - 2026-09-09
-  - [EXPLAIN 읽는 법](SQL_Query_Optimizationg/2026-09-09_SQL_Query_Optimization_2.md)
+  - [EXPLAIN 읽는 법](SQL_Query_Optimization/2026-09-09_SQL_Query_Optimization_2.md)
 
 - 2026-09-09
-  - [인덱스 구조와 동작 원리](SQL_Query_Optimizationg/2026-09-09_SQL_Query_Optimization_3.md)
+  - [인덱스 구조와 동작 원리](SQL_Query_Optimization/2026-09-09_SQL_Query_Optimization_3.md)
 
 - 2026-09-09
-  - [인덱스가 효과적인 경우와 비효과적인 경우 판단](SQL_Query_Optimizationg/2026-09-09_SQL_Query_Optimization_4.md)
+  - [인덱스가 효과적인 경우와 비효과적인 경우 판단](SQL_Query_Optimization/2026-09-09_SQL_Query_Optimization_4.md)
