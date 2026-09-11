@@ -199,3 +199,18 @@
 
 - 2026-09-09
   - [인덱스가 효과적인 경우와 비효과적인 경우 판단](SQL_Query_Optimization/2026-09-09_SQL_Query_Optimization_4.md)
+
+- 2026-09-10
+  - [CTE와 중첩 서브쿼리의 구조적 차이와 최적화 특성](SQL_Query_Optimization/2026-09-10_SQL_Query_Optimization_5.md)
+
+- 2026-09-10
+  - [다단계 테이블 결합으로 복합 데이터셋 구성](SQL_Query_Optimization/2026-09-10_SQL_Query_Optimization_6.md)
+
+- 2026-09-11
+  - [윈도우 함수 구조와 집계 함수 비교](SQL_Query_Optimization/2026-09-11_SQL_Query_Optimization_7.md)
+
+- 2026-09-11
+  - [순위 산출과 그룹 내 비교 함수](SQL_Query_Optimization/2026-09-11_SQL_Query_Optimization_8.md)
+
+- 2026-09-11
+  - [누적합과 이전 행 비교](SQL_Query_Optimization/2026-09-11_SQL_Query_Optimization_9.md)
