@@ -214,3 +214,15 @@
 
 - 2026-09-11
   - [누적합과 이전 행 비교](SQL_Query_Optimization/2026-09-11_SQL_Query_Optimization_9.md)
+
+- 2026-09-14
+  - [EXPLAIN 결과 해석과 실행계획 요소 식별](SQL_Query_Optimization/2026-09-14_SQL_Query_Optimization_10.md)
+
+- 2026-09-14
+  - [쿼리 재작성 전후 실행계획 비교와 개선 효과 분석](SQL_Query_Optimization/2026-09-14_SQL_Query_Optimization_11.md)
+
+
+## Inferential_Statistics_Experimental_Design
+
+- 2026-09-14
+  - [가설검정 프레임워크의 이해](Inferential_Statistics_Experimental_Design/2026-09-14_Inferential_Statistics_Experimental_Design_1.md)
