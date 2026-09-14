@@ -226,3 +226,6 @@
 
 - 2026-09-14
   - [가설검정 프레임워크의 이해](Inferential_Statistics_Experimental_Design/2026-09-14_Inferential_Statistics_Experimental_Design_1.md)
+
+- 2026-09-14
+  - [유의수준·검정력·표본 크기의 트레이드오프와 실질적 유의성](Inferential_Statistics_Experimental_Design/2026-09-14_Inferential_Statistics_Experimental_Design_2.md)
