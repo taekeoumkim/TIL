@@ -232,3 +232,6 @@
 
 - 2026-09-15
   - [데이터 특성에 따른 가설검정 기법 선택](Inferential_Statistics_Experimental_Design/2026-09-15_Inferential_Statistics_Experimental_Design_3.md)
+
+- 2026-09-15
+  - [t-검정의 이론과 가정](Inferential_Statistics_Experimental_Design/2026-09-15_Inferential_Statistics_Experimental_Design_4.md)
