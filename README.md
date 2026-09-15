@@ -229,3 +229,6 @@
 
 - 2026-09-14
   - [유의수준·검정력·표본 크기의 트레이드오프와 실질적 유의성](Inferential_Statistics_Experimental_Design/2026-09-14_Inferential_Statistics_Experimental_Design_2.md)
+
+- 2026-09-15
+  - [데이터 특성에 따른 가설검정 기법 선택](Inferential_Statistics_Experimental_Design/2026-09-15_Inferential_Statistics_Experimental_Design_3.md)
