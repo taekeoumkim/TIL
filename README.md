@@ -235,3 +235,12 @@
 
 - 2026-09-15
   - [t-검정의 이론과 가정](Inferential_Statistics_Experimental_Design/2026-09-15_Inferential_Statistics_Experimental_Design_4.md)
+
+- 2026-09-16
+  - [분산분석(ANOVA)과 사후 검정 이론](Inferential_Statistics_Experimental_Design/2026-09-16_Inferential_Statistics_Experimental_Design_5.md)
+
+- 2026-09-16
+  - [교차표와 카이제곱 독립성 검정 이론](Inferential_Statistics_Experimental_Design/2026-09-16_Inferential_Statistics_Experimental_Design_6.md)
+
+- 2026-09-16
+  - [피어슨 상관계수의 의미와 한계, 상관과 인과의 구별](Inferential_Statistics_Experimental_Design/2026-09-16_Inferential_Statistics_Experimental_Design_7.md)
