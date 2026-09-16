@@ -244,3 +244,6 @@
 
 - 2026-09-16
   - [피어슨 상관계수의 의미와 한계, 상관과 인과의 구별](Inferential_Statistics_Experimental_Design/2026-09-16_Inferential_Statistics_Experimental_Design_7.md)
+
+- 2026-09-16
+  - [단순선형회귀 이론](Inferential_Statistics_Experimental_Design/2026-09-16_Inferential_Statistics_Experimental_Design_8.md)
