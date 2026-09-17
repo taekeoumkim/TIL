@@ -247,3 +247,9 @@
 
 - 2026-09-16
   - [단순선형회귀 이론](Inferential_Statistics_Experimental_Design/2026-09-16_Inferential_Statistics_Experimental_Design_8.md)
+
+- 2026-09-17
+  - [A_B 테스트 설계 원리와 랜덤화](Inferential_Statistics_Experimental_Design/2026-09-17_Inferential_Statistics_Experimental_Design_9.md)
+
+- 2026-09-17
+  - [검정력 분석과 MDE 기반 표본 크기 산정](Inferential_Statistics_Experimental_Design/2026-09-17_Inferential_Statistics_Experimental_Design_10.md)
