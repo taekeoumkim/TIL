@@ -253,3 +253,15 @@
 
 - 2026-09-17
   - [검정력 분석과 MDE 기반 표본 크기 산정](Inferential_Statistics_Experimental_Design/2026-09-17_Inferential_Statistics_Experimental_Design_10.md)
+
+
+## Product_Analysis
+
+- 2026-09-18
+  - [프로덕트 분석이란_ 데이터 기반 의사결정과 데이터사이언티스트의 역할](Product_Analysis/2026-09-18_Product_Analysis_1.md)
+
+- 2026-09-18
+  - [좋은 지표의 조건_ KPI·보조지표·허무지표 구분](Product_Analysis/2026-09-18_Product_Analysis_2.md)
+
+- 2026-09-18
+  - [AARRR 프레임워크 개요와 단계별 분석 목적](Product_Analysis/2026-09-18_Product_Analysis_3.md)
