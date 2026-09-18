@@ -265,3 +265,6 @@
 
 - 2026-09-18
   - [AARRR 프레임워크 개요와 단계별 분석 목적](Product_Analysis/2026-09-18_Product_Analysis_3.md)
+
+- 2026-09-18
+  - [퍼널 분석 - 전환율_이탈률 측정 원리](Product_Analysis/2026-09-18_Product_Analysis_4.md)
