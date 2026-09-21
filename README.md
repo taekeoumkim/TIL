@@ -268,3 +268,12 @@
 
 - 2026-09-18
   - [퍼널 분석 - 전환율_이탈률 측정 원리](Product_Analysis/2026-09-18_Product_Analysis_4.md)
+
+- 2026-09-21
+  - [코호트 기반 리텐션 분석과 세그멘테이션](Product_Analysis/2026-09-21_Product_Analysis_5.md)
+
+- 2026-09-21
+  - [이벤트 로그 기반 사용자행동 분석](Product_Analysis/2026-09-21_Product_Analysis_6.md)
+
+- 2026-09-21
+  - [A_B 테스트 핵심 메커니즘과 실험 설계 오류 식별](Product_Analysis/2026-09-21_Product_Analysis_7.md)
