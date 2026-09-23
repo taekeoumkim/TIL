@@ -283,3 +283,15 @@
 
 - 2026-09-22
   - [종합 분석 실습_ 퍼널·리텐션·개선 시나리오 통합 적용](Product_Analysis/2026-09-22_Product_Analysis_9.md)
+
+
+## Practical MachineLearning
+
+- 2026-09-23
+  - [문제 유형·데이터 분리·평가지표 리마인드](Practical_MachineLearning/2026-09-23_Practical_MachineLearning_1.md)
+
+- 2026-09-23
+  - [핵심 모델과 선택 기준 압축 정리](Practical_MachineLearning/2026-09-23_Practical_MachineLearning_2.md)
+
+- 2026-09-23
+  - [시계열 데이터의 이해와 정상성 진단](Practical_MachineLearning/2026-09-23_Practical_MachineLearning_3.md)
