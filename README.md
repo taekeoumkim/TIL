@@ -293,5 +293,5 @@
 - 2026-09-23
   - [핵심 모델과 선택 기준 압축 정리](Practical_MachineLearning/2026-09-23_Practical_MachineLearning_2.md)
 
-- 2026-09-23
-  - [시계열 데이터의 이해와 정상성 진단](Practical_MachineLearning/2026-09-23_Practical_MachineLearning_3.md)
+- 2026-09-24
+  - [시계열 데이터의 이해와 정상성 진단](Practical_MachineLearning/2026-09-24_Practical_MachineLearning_3.md)
