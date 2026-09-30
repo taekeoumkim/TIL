@@ -295,3 +295,12 @@
 
 - 2026-09-29
   - [시계열 데이터의 이해와 정상성 진단](Practical_MachineLearning/2026-09-29_Practical_MachineLearning_3.md)
+
+- 2026-09-30
+  - [시계열 데이터 모델링과 예측](Practical_MachineLearning/2026-09-30_Practical_MachineLearning_4.md)
+
+- 2026-09-30
+  - [Streamlit을 활용한 시계열 데이터 웹 구현](Practical_MachineLearning/2026-09-30_Practical_MachineLearning_5.md)
+
+- 2026-09-30
+  - [편향-분산 트레이드오프와 과적합/과소적합 진단](Practical_MachineLearning/2026-09-30_Practical_MachineLearning_6.md)
