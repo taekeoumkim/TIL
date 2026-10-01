@@ -302,5 +302,11 @@
 - 2026-09-30
   - [Streamlit을 활용한 시계열 데이터 웹 구현](Practical_MachineLearning/2026-09-30_Practical_MachineLearning_5.md)
 
-- 2026-09-30
-  - [편향-분산 트레이드오프와 과적합/과소적합 진단](Practical_MachineLearning/2026-09-30_Practical_MachineLearning_6.md)
+- 2026-10-01
+  - [편향-분산 트레이드오프와 과적합/과소적합 진단](Practical_MachineLearning/2026-10-01_Practical_MachineLearning_6.md)
+
+- 2026-10-01
+  - [규제 — L1(Lasso), L2(Ridge), ElasticNet](Practical_MachineLearning/2026-10-01_Practical_MachineLearning_7.md)
+
+- 2026-10-01
+  - [데이터 불균형과 평가지표 왜곡](Practical_MachineLearning/2026-10-01_Practical_MachineLearning_8.md)
