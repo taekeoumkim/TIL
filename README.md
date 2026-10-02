@@ -308,5 +308,11 @@
 - 2026-10-01
   - [규제 — L1(Lasso), L2(Ridge), ElasticNet](Practical_MachineLearning/2026-10-01_Practical_MachineLearning_7.md)
 
-- 2026-10-01
-  - [데이터 불균형과 평가지표 왜곡](Practical_MachineLearning/2026-10-01_Practical_MachineLearning_8.md)
+- 2026-10-02
+  - [데이터 불균형과 평가지표 왜곡](Practical_MachineLearning/2026-10-02_Practical_MachineLearning_8.md)
+
+- 2026-10-02
+  - [교차검증 전략과 데이터 누수 방지](Practical_MachineLearning/2026-10-02_Practical_MachineLearning_9.md)
+
+- 2026-10-02
+  - [배깅과 랜덤포레스트](Practical_MachineLearning/2026-10-02_Practical_MachineLearning_10.md)
