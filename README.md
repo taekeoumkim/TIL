@@ -314,5 +314,14 @@
 - 2026-10-02
   - [교차검증 전략과 데이터 누수 방지](Practical_MachineLearning/2026-10-02_Practical_MachineLearning_9.md)
 
-- 2026-10-02
-  - [배깅과 랜덤포레스트](Practical_MachineLearning/2026-10-02_Practical_MachineLearning_10.md)
+- 2026-10-06
+  - [배깅과 랜덤포레스트](Practical_MachineLearning/2026-10-06_Practical_MachineLearning_10.md)
+
+- 2026-10-06
+  - [부스팅 계열 모델의 원리와 발전](Practical_MachineLearning/2026-10-06_Practical_MachineLearning_11.md)
+
+- 2026-10-06
+  - [배깅 vs 부스팅 선택과 모델 해석(SHAP)](Practical_MachineLearning/2026-10-06_Practical_MachineLearning_12.md)
+
+- 2026-10-06
+  - [CV 기반 하이퍼파라미터 튜닝과 모델 탐색](Practical_MachineLearning/2026-10-06_Practical_MachineLearning_13.md)
