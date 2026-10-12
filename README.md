@@ -285,7 +285,7 @@
   - [종합 분석 실습_ 퍼널·리텐션·개선 시나리오 통합 적용](Product_Analysis/2026-09-22_Product_Analysis_9.md)
 
 
-## Practical MachineLearning
+## Practical_MachineLearning
 
 - 2026-09-23
   - [문제 유형·데이터 분리·평가지표 리마인드](Practical_MachineLearning/2026-09-23_Practical_MachineLearning_1.md)
@@ -330,4 +330,49 @@
   - [재현 가능한 End-to-End Pipeline 구축 프로젝트](Practical_MachineLearning/2026-10-07_Practical_MachineLearning_14.md)
 
 - 2026-10-07
-  - [데이터 문제 해결의 흐름 ](Practical_MachineLearning/2026-10-07_Practical_MachineLearning_15.md)
+  - [데이터 문제 해결의 흐름](Practical_MachineLearning/2026-10-07_Practical_MachineLearning_15.md)
+
+
+## BI_Tool
+
+- 2026-10-08
+  - [데이터 시각화 개론과 BI 도구 랜드스케이프](BI_Tool/2026-10-08_BI_Tool_1.md)
+
+- 2026-10-08
+  - [Tableau 시작하기 — 데이터 연결과 필드 이해](BI_Tool/2026-10-08_BI_Tool_2.md)
+
+- 2026-10-08
+  - [마크 타입과 기본 차트 구성](BI_Tool/2026-10-08_BI_Tool_3.md)
+
+- 2026-10-08
+  - [데이터 결합 — 조인/유니온/블렌딩/관계](BI_Tool/2026-10-08_BI_Tool_4.md)
+
+- 2026-10-08
+  - [계산된 필드 기초 — 논리·집계 함수](BI_Tool/2026-10-08_BI_Tool_5.md)
+
+- 2026-10-08
+  - [LOD 표현식으로 집계 수준 제어하기](BI_Tool/2026-10-08_BI_Tool_6.md)
+
+- 2026-10-08
+  - [테이블 계산과 지표 시각화 적용](BI_Tool/2026-10-08_BI_Tool_7.md)
+
+- 2026-10-12
+  - [파라미터 활용](BI_Tool/2026-10-12_BI_Tool_8.md)
+
+- 2026-10-12
+  - [필터의 종류와 차이](BI_Tool/2026-10-12_BI_Tool_9.md)
+
+- 2026-10-12
+  - [대시보드 액션(Action)으로 인터랙션 구현](BI_Tool/2026-10-12_BI_Tool_10.md)
+
+- 2026-10-12
+  - [인터랙티브 대시보드 종합 구현](BI_Tool/2026-10-12_BI_Tool_11.md)
+
+- 2026-10-12
+  - [효과적인 BI 대시보드 설계 원칙](BI_Tool/2026-10-12_BI_Tool_12.md)
+
+- 2026-10-12
+  - [비즈니스 문제 정의와 KPI 설계](BI_Tool/2026-10-12_BI_Tool_13.md)
+
+- 2026-10-12
+  - [프로젝트 실습 — KPI 대시보드 구현 및 인사이트 도출 ](BI_Tool/2026-10-12_BI_Tool_14.md)
