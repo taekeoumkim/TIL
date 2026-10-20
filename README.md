@@ -375,4 +375,16 @@
   - [비즈니스 문제 정의와 KPI 설계](BI_Tool/2026-10-12_BI_Tool_13.md)
 
 - 2026-10-12
-  - [프로젝트 실습 — KPI 대시보드 구현 및 인사이트 도출 ](BI_Tool/2026-10-12_BI_Tool_14.md)
+  - [프로젝트 실습 — KPI 대시보드 구현 및 인사이트 도출](BI_Tool/2026-10-12_BI_Tool_14.md)
+
+
+## Basic_Mathematics
+
+- 2026-10-20
+  - [벡터와 행렬의 기본 개념](Basic_Mathematics/2026-10-20_Basic_Mathematics_1.md)
+
+- 2026-10-20
+  - [벡터 내적과 행렬 곱](Basic_Mathematics/2026-10-20_Basic_Mathematics_2.md)
+
+- 2026-10-20
+  - [선형 변환과 신경망 레이어](Basic_Mathematics/2026-10-20_Basic_Mathematics_3.md)
