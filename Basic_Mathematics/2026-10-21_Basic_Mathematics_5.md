@@ -151,7 +151,7 @@ print(round(p_given_no_cart, 3))  # 0.25
 
 $$
 p_i=P(Y_i=1\mid X_i=\mathbf{x}_i;\theta)
-=\operatorname{Sigmoid}(\mathbf{x}_i\cdot\mathbf{w}+b)
+=\mathrm{Sigmoid}(\mathbf{x}_i\cdot\mathbf{w}+b)
 $$
 
 $\theta=(\mathbf{w},b)$는 가중치와 편향을 뜻한다. 모든 고객에게 동일한 확률을 부여하는 대신, 입력 특성에 따라 고객별 확률을 계산할 수 있다.
@@ -321,19 +321,15 @@ print(round(np.sum(np.log(probabilities)), 3))   # -1386.294
 음의 로그우도(Negative Log-Likelihood, NLL)는 로그우도에 음수를 붙인 값이다.
 
 $$
-\operatorname{NLL}(\theta)=-\ell(\theta\mid D)
+\mathrm{NLL}(\theta)=-\ell(\theta\mid D)
 $$
 
-$$
-\text{우도 최대화}\;\Longleftrightarrow\;
-\text{로그우도 최대화}\;\Longleftrightarrow\;
-\text{NLL 최소화}
-$$
+**우도 최대화 ⇔ 로그우도 최대화 ⇔ NLL 최소화**
 
 베르누이 모델에서 전체 NLL은 다음과 같다.
 
 $$
-\operatorname{NLL}(\theta)
+\mathrm{NLL}(\theta)
 =-\sum_{i=1}^{n}\left[y_i\ln p_i+(1-y_i)\ln(1-p_i)\right]
 $$
 
@@ -358,7 +354,7 @@ $$
 평균 NLL은 전체 NLL을 데이터 개수로 나눈 값이다.
 
 $$
-\operatorname{Mean\ NLL}
+\mathrm{MeanNLL}
 =-\frac1n\sum_{i=1}^{n}\left[y_i\ln p_i+(1-y_i)\ln(1-p_i)\right]
 $$
 
