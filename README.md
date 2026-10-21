@@ -386,8 +386,11 @@
 - 2026-10-20
   - [벡터 내적과 행렬 곱](Basic_Mathematics/2026-10-20_Basic_Mathematics_2.md)
 
-- 2026-10-20
-  - [선형 변환과 신경망 레이어](Basic_Mathematics/2026-10-20_Basic_Mathematics_3.md)
+- 2026-10-21
+  - [선형 변환과 신경망 레이어](Basic_Mathematics/2026-10-21_Basic_Mathematics_3.md)
 
-- 2026-10-20
-  - [회귀와 분류 모델의 예측](Basic_Mathematics/2026-10-20_Basic_Mathematics_4.md)
+- 2026-10-21
+  - [회귀와 분류 모델의 예측](Basic_Mathematics/2026-10-21_Basic_Mathematics_4.md)
+
+- 2026-10-21
+  - [Likelihood와 Maximum Likelihood](Basic_Mathematics/2026-10-21_Basic_Mathematics_5.md)
