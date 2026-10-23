@@ -398,11 +398,11 @@
 - 2026-10-22
   - [MSE와 Cross Entropy의 수학적 원리](Basic_Mathematics/2026-10-22_Basic_Mathematics_6.md)
 
-- 2026-10-22
-  - [미분과 Gradient](Basic_Mathematics/2026-10-22_Basic_Mathematics_7.md)
+- 2026-10-23
+  - [미분과 Gradient](Basic_Mathematics/2026-10-23_Basic_Mathematics_7.md)
 
-- 2026-10-22
-  - [Chain Rule과 Backpropagation](Basic_Mathematics/2026-10-22_Basic_Mathematics_8.md)
+- 2026-10-23
+  - [Chain Rule과 Backpropagation](Basic_Mathematics/2026-10-23_Basic_Mathematics_8.md)
 
-- 2026-10-22
-  - [Gradient Descent와 Learning Rate](Basic_Mathematics/2026-10-22_Basic_Mathematics_9.md)
+- 2026-10-23
+  - [Gradient Descent와 Learning Rate](Basic_Mathematics/2026-10-23_Basic_Mathematics_9.md)

@@ -1,4 +1,4 @@
-# 2026-10-22 TIL | Chain Rule, 순전파와 역전파
+# 2026-10-23 TIL | Chain Rule, 순전파와 역전파
 
 ## 1. 합성함수와 Chain Rule
 
