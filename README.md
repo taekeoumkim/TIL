@@ -406,3 +406,15 @@
 
 - 2026-10-23
   - [Gradient Descent와 Learning Rate](Basic_Mathematics/2026-10-23_Basic_Mathematics_9.md)
+
+
+## Deep_Learning
+
+- 2026-10-26
+  - [인공신경망과 DNN](Deep_Learning/2026-10-26_Deep_Learning_1.md)
+
+- 2026-10-26
+  - [활성화 함수와 순전파](Deep_Learning/2026-10-26_Deep_Learning_2.md)
+
+- 2026-10-26
+  - [역전파와 기울기 문제](Deep_Learning/2026-10-26_Deep_Learning_3.md)
