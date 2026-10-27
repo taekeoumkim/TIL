@@ -1,4 +1,4 @@
-# 2026-10-26 TIL | PyTorch 자동 미분, 기울기 소실·폭주와 Clipping
+# 2026-10-27 TIL | PyTorch 자동 미분, 기울기 소실·폭주와 Clipping
 
 ## 1. 역전파와 자동 미분의 역할
 

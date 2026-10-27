@@ -416,5 +416,14 @@
 - 2026-10-26
   - [활성화 함수와 순전파](Deep_Learning/2026-10-26_Deep_Learning_2.md)
 
-- 2026-10-26
-  - [역전파와 기울기 문제](Deep_Learning/2026-10-26_Deep_Learning_3.md)
+- 2026-10-27
+  - [역전파와 기울기 문제](Deep_Learning/2026-10-27_Deep_Learning_3.md)
+
+- 2026-10-27
+  - [신경망 최적화](Deep_Learning/2026-10-27_Deep_Learning_4.md)
+
+- 2026-10-27
+  - [CNN의 구조와 원리](Deep_Learning/2026-10-27_Deep_Learning_5.md)
+
+- 2026-10-27
+  - [RNN과 LSTM](Deep_Learning/2026-10-27_Deep_Learning_6.md)
