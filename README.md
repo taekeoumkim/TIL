@@ -422,8 +422,14 @@
 - 2026-10-27
   - [신경망 최적화](Deep_Learning/2026-10-27_Deep_Learning_4.md)
 
-- 2026-10-27
-  - [CNN의 구조와 원리](Deep_Learning/2026-10-27_Deep_Learning_5.md)
+- 2026-10-28
+  - [CNN의 구조와 원리](Deep_Learning/2026-10-28_Deep_Learning_5.md)
 
-- 2026-10-27
-  - [RNN과 LSTM](Deep_Learning/2026-10-27_Deep_Learning_6.md)
+- 2026-10-28
+  - [RNN과 LSTM](Deep_Learning/2026-10-28_Deep_Learning_6.md)
+
+- 2026-10-28
+  - [Attention 메커니즘](Deep_Learning/2026-10-28_Deep_Learning_7.md)
+
+- 2026-10-28
+  - [Transformer 아키텍처](Deep_Learning/2026-10-28_Deep_Learning_8.md)
