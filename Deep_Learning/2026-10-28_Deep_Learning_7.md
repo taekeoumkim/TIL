@@ -133,9 +133,9 @@ Self-Attention에서 ‘Self’는 **입력 시퀀스의 출처가 같다는 뜻
 Transformer에서 사용하는 대표적인 Attention 계산식은 다음과 같다.
 
 $$
-\operatorname{Attention}(Q,K,V)
+\mathrm{Attention}(Q,K,V)
 =
-\operatorname{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\right)V
+\mathrm{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\right)V
 $$
 
 $d_k$는 **Key 벡터 하나의 차원**이다. Key의 개수나 시퀀스 길이와는 다르다.
@@ -191,7 +191,7 @@ $A_{ij}$는 Query $i$가 Key $j$에 대응하는 Value를 반영할 때 사용�
 Softmax는 모든 점수에 같은 상수를 더하거나 빼도 결과가 같다.
 
 $$
-\operatorname{softmax}(s-c)=\operatorname{softmax}(s)
+\mathrm{softmax}(s-c)=\mathrm{softmax}(s)
 $$
 
 따라서 구현에서는 각 행의 최댓값을 뺀 뒤 지수함수를 계산하여 수치적 안정성을 높인다. 이는 점수의 차이를 줄이는 Scaling과 목적이 다르다.

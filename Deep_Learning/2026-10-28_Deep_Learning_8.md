@@ -25,9 +25,9 @@ $$
 ### 각 Head에서 Scaled Dot-Product Attention 수행
 
 $$
-\operatorname{head}_i
+\mathrm{head}_i
 =
-\operatorname{softmax}\left(
+\mathrm{softmax}\left(
 \frac{Q_iK_i^\top}{\sqrt{d_k}}
 \right)V_i
 $$
@@ -49,10 +49,10 @@ $$
 이후 학습 가능한 출력 가중치 행렬 $W^O$를 적용한다.
 
 $$
-\operatorname{MultiHead}(X)
+\mathrm{MultiHead}(X)
 =
-\operatorname{Concat}(
-\operatorname{head}_1,\ldots,\operatorname{head}_h
+\mathrm{Concat}(
+\mathrm{head}_1,\ldots,\mathrm{head}_h
 )W^O
 $$
 
@@ -226,7 +226,7 @@ $$
 확률이 필요한 경우 다음과 같이 Softmax를 적용한다.
 
 $$
-P(y_t\mid y_{<t},x)=\operatorname{softmax}(z_t)
+P(y_t\mid y_{<t},x)=\mathrm{softmax}(z_t)
 $$
 
 여기서 $x$는 입력 시퀀스, $y_{<t}$는 이전 출력 토큰들이다.
@@ -258,7 +258,7 @@ M_{ij}=
 $$
 
 $$
-A=\operatorname{softmax}\left(
+A=\mathrm{softmax}\left(
 \frac{QK^\top}{\sqrt{d_k}}+M
 \right)
 $$
