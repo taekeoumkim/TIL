@@ -428,8 +428,20 @@
 - 2026-10-28
   - [RNN과 LSTM](Deep_Learning/2026-10-28_Deep_Learning_6.md)
 
-- 2026-10-28
-  - [Attention 메커니즘](Deep_Learning/2026-10-28_Deep_Learning_7.md)
+- 2026-10-29
+  - [Attention 메커니즘](Deep_Learning/2026-10-29_Deep_Learning_7.md)
 
-- 2026-10-28
-  - [Transformer 아키텍처](Deep_Learning/2026-10-28_Deep_Learning_8.md)
+- 2026-10-29
+  - [Transformer 아키텍처](Deep_Learning/2026-10-29_Deep_Learning_8.md)
+
+- 2026-10-29
+  - [일반화와 학습 안정화 기법](Deep_Learning/2026-10-29_Deep_Learning_9.md)
+
+- 2026-10-29
+  - [학습 상태 진단과 Loss 분석](Deep_Learning/2026-10-29_Deep_Learning_10.md)
+
+- 2026-10-30
+  - [전이학습의 기본 원리](Deep_Learning/2026-10-30_Deep_Learning_11.md)
+
+- 2026-10-30
+  - [전이학습 전략과 성능 비교](Deep_Learning/2026-10-30_Deep_Learning_12.md)

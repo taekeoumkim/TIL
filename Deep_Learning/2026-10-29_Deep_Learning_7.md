@@ -1,4 +1,4 @@
-# 2026-10-28 TIL | Attention과 Self-Attention, Query·Key·Value, Scaled Dot-Product Attention
+# 2026-10-29 TIL | Attention과 Self-Attention, Query·Key·Value, Scaled Dot-Product Attention
 
 ## 1. Attention: 관련성에 따라 정보를 결합하기
 

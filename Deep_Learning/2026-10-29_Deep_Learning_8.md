@@ -1,4 +1,4 @@
-# 2026-10-28 TIL | Multi-Head Attention, Positional Encoding, Transformer의 Encoder·Decoder 구조
+# 2026-10-29 TIL | Multi-Head Attention, Positional Encoding, Transformer의 Encoder·Decoder 구조
 
 ## 1. Multi-Head Attention: 여러 관점의 관계 계산
 
