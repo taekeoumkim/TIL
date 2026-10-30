@@ -1,4 +1,4 @@
-# 2026-10-29 TIL | Training·Validation Loss, Learning Curve 분석, 학습 상태 진단과 개선 전략
+# 2026-10-30 TIL | Training·Validation Loss, Learning Curve 분석, 학습 상태 진단과 개선 전략
 
 ## 1. Training Loss와 Validation Loss의 역할
 

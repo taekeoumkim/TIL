@@ -1,4 +1,4 @@
-# 2026-10-29 TIL | 과적합과 일반화, Dropout·Weight Decay, Batch Normalization·Early Stopping
+# 2026-10-30 TIL | 과적합과 일반화, Dropout·Weight Decay, Batch Normalization·Early Stopping
 
 ## 1. 과적합과 일반화
 

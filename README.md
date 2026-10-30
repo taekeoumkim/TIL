@@ -434,11 +434,11 @@
 - 2026-10-29
   - [Transformer 아키텍처](Deep_Learning/2026-10-29_Deep_Learning_8.md)
 
-- 2026-10-29
-  - [일반화와 학습 안정화 기법](Deep_Learning/2026-10-29_Deep_Learning_9.md)
+- 2026-10-30
+  - [일반화와 학습 안정화 기법](Deep_Learning/2026-10-30_Deep_Learning_9.md)
 
-- 2026-10-29
-  - [학습 상태 진단과 Loss 분석](Deep_Learning/2026-10-29_Deep_Learning_10.md)
+- 2026-10-30
+  - [학습 상태 진단과 Loss 분석](Deep_Learning/2026-10-30_Deep_Learning_10.md)
 
 - 2026-10-30
   - [전이학습의 기본 원리](Deep_Learning/2026-10-30_Deep_Learning_11.md)
