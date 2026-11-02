@@ -1,4 +1,4 @@
-# 2026-10-30 TIL | Scratch Training·전이학습 전략 비교, 평가 지표와 학습 효율
+# 2026-11-02 TIL | Scratch Training·전이학습 전략 비교, 평가 지표와 학습 효율
 
 ## 1. Scratch Training과 Transfer Learning의 출발점
 

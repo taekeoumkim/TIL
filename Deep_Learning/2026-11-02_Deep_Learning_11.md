@@ -1,4 +1,4 @@
-# 2026-10-30 TIL | 사전학습 모델과 전이학습, Feature Extraction, Fine-tuning
+# 2026-11-02 TIL | 사전학습 모델과 전이학습, Feature Extraction, Fine-tuning
 
 ## 1. Pretrained Model: 구조와 학습된 가중치 구분
 

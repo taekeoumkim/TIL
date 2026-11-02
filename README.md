@@ -440,8 +440,8 @@
 - 2026-10-30
   - [학습 상태 진단과 Loss 분석](Deep_Learning/2026-10-30_Deep_Learning_10.md)
 
-- 2026-10-30
-  - [전이학습의 기본 원리](Deep_Learning/2026-10-30_Deep_Learning_11.md)
+- 2026-11-02
+  - [전이학습의 기본 원리](Deep_Learning/2026-11-02_Deep_Learning_11.md)
 
-- 2026-10-30
-  - [전이학습 전략과 성능 비교](Deep_Learning/2026-10-30_Deep_Learning_12.md)
+- 2026-11-02
+  - [전이학습 전략과 성능 비교](Deep_Learning/2026-11-02_Deep_Learning_12.md)
