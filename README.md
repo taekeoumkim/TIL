@@ -457,3 +457,6 @@
 
 - 2026-11-03
   - [API를 이용한 데이터 수집](Data_Collection/2026-11-03_Data_Collection_3.md)
+
+- 2026-11-03
+  - [웹 크롤링과 수집 방법 선택](Data_Collection/2026-11-03_Data_Collection_4.md)
