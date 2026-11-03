@@ -445,3 +445,15 @@
 
 - 2026-11-02
   - [전이학습 전략과 성능 비교](Deep_Learning/2026-11-02_Deep_Learning_12.md)
+
+
+## Data_Collection
+
+- 2026-11-02
+  - [HTML과 JSON 구조](Data_Collection/2026-11-02_Data_Collection_1.md)
+
+- 2026-11-03
+  - [데이터 추출과 저장](Data_Collection/2026-11-03_Data_Collection_2.md)
+
+- 2026-11-03
+  - [API를 이용한 데이터 수집](Data_Collection/2026-11-03_Data_Collection_3.md)
