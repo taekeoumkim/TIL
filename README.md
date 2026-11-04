@@ -460,3 +460,9 @@
 
 - 2026-11-03
   - [웹 크롤링과 수집 방법 선택](Data_Collection/2026-11-03_Data_Collection_4.md)
+
+- 2026-11-04
+  - [수집 데이터의 품질 확인](Data_Collection/2026-11-04_Data_Collection_5.md)
+
+- 2026-11-04
+  - [데이터 정제와 최종 저장](Data_Collection/2026-11-04_Data_Collection_6.md)
