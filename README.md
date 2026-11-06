@@ -466,3 +466,15 @@
 
 - 2026-11-04
   - [데이터 정제와 최종 저장](Data_Collection/2026-11-04_Data_Collection_6.md)
+
+
+## Text_Analysis
+
+- 2026-11-06
+  - [텍스트 데이터의 이해와 전처리](Text_Analysis/2026-11-06_Text_Analysis_1.md)
+
+- 2026-11-06
+  - [TF-IDF와 키워드 분석](Text_Analysis/2026-11-06_Text_Analysis_2.md)
+
+- 2026-11-06
+  - [텍스트 임베딩과 의미 유사도](Text_Analysis/2026-11-06_Text_Analysis_3.md)
