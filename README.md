@@ -470,11 +470,14 @@
 
 ## Text_Analysis
 
-- 2026-11-06
-  - [텍스트 데이터의 이해와 전처리](Text_Analysis/2026-11-06_Text_Analysis_1.md)
+- 2026-11-09
+  - [텍스트 데이터의 이해와 전처리](Text_Analysis/2026-11-09_Text_Analysis_1.md)
 
-- 2026-11-06
-  - [TF-IDF와 키워드 분석](Text_Analysis/2026-11-06_Text_Analysis_2.md)
+- 2026-11-09
+  - [TF-IDF와 키워드 분석](Text_Analysis/2026-11-09_Text_Analysis_2.md)
 
-- 2026-11-06
-  - [텍스트 임베딩과 의미 유사도](Text_Analysis/2026-11-06_Text_Analysis_3.md)
+- 2026-11-09
+  - [텍스트 임베딩과 의미 유사도](Text_Analysis/2026-11-09_Text_Analysis_3.md)
+
+- 2026-11-09
+  - [임베딩 기반 문서 검색](Text_Analysis/2026-11-09_Text_Analysis_4.md)
