@@ -485,17 +485,17 @@
 - 2026-11-11
   - [LLM의 기본 개념과 특성](Text_Analysis/2026-11-11_Text_Analysis_5.md)
 
-- 2026-11-11
-  - [프롬프트 설계와 활용](Text_Analysis/2026-11-11_Text_Analysis_6.md)
-
-- 2026-11-11
-  - [LLM API 활용](Text_Analysis/2026-11-11_Text_Analysis_7.md)
+- 2026-11-12
+  - [프롬프트 설계와 활용](Text_Analysis/2026-11-12_Text_Analysis_6.md)
 
 - 2026-11-12
-  - [구조화된 출력과 다수 문서 분석](Text_Analysis/2026-11-12_Text_Analysis_8.md)
+  - [LLM API 활용](Text_Analysis/2026-11-12_Text_Analysis_7.md)
 
-- 2026-11-12
-  - [LLM 워크플로우의 구성과 활용](Text_Analysis/2026-11-12_Text_Analysis_9.md)
+- 2026-11-13
+  - [구조화된 출력과 다수 문서 분석](Text_Analysis/2026-11-13_Text_Analysis_8.md)
 
-- 2026-11-12
-  - [분석 결과 평가와 개선](Text_Analysis/2026-11-12_Text_Analysis_10.md)
+- 2026-11-16
+  - [LLM 워크플로우의 구성과 활용](Text_Analysis/2026-11-16_Text_Analysis_9.md)
+
+- 2026-11-16
+  - [분석 결과 평가와 개선](Text_Analysis/2026-11-16_Text_Analysis_10.md)
