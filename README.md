@@ -497,5 +497,5 @@
 - 2026-11-16
   - [LLM 워크플로우의 구성과 활용](Text_Analysis/2026-11-16_Text_Analysis_9.md)
 
-- 2026-11-16
-  - [분석 결과 평가와 개선](Text_Analysis/2026-11-16_Text_Analysis_10.md)
+- 2026-11-17
+  - [분석 결과 평가와 개선](Text_Analysis/2026-11-17_Text_Analysis_10.md)
