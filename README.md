@@ -508,3 +508,9 @@
 
 - 2026-11-19
   - [이미지 데이터셋 구성과 전처리](Image_Analysis/2026-11-19_Text_Analysis_2.md)
+
+- 2026-11-20
+  - [CNN과 사전학습 모델](Image_Analysis/2026-11-20_Text_Analysis_3.md)
+
+- 2026-11-20
+  - [이미지 분류](Image_Analysis/2026-11-20_Text_Analysis_4.md)
