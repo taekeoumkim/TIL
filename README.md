@@ -514,3 +514,24 @@
 
 - 2026-11-20
   - [이미지 분류](Image_Analysis/2026-11-20_Text_Analysis_4.md)
+
+- 2026-11-20
+  - [객체 탐지와 세그멘테이션](Image_Analysis/2026-11-20_Text_Analysis_5.md)
+
+- 2026-11-23
+  - [객체 탐지 및 세그멘테이션 평가](Image_Analysis/2026-11-23_Text_Analysis_6.md)
+
+- 2026-11-23
+  - [모델 오류 분석과 성능 개선](Image_Analysis/2026-11-23_Text_Analysis_7.md)
+
+- 2026-11-23
+  - [이미지 임베딩과 특징 표현](Image_Analysis/2026-11-23_Text_Analysis_8.md)
+
+- 2026-11-24
+  - [이미지 군집화와 결과 해석](Image_Analysis/2026-11-24_Text_Analysis_9.md)
+
+- 2026-11-24
+  - [VLM의 개념과 활용](Image_Analysis/2026-11-24_Text_Analysis_10.md)
+
+- 2026-11-24
+  - [VLM API와 이미지 정보 추출](Image_Analysis/2026-11-24_Text_Analysis_11.md)
